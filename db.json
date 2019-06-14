@@ -715,37 +715,8 @@
       "id": 25,
       "name": "autem ab ea sit alias hic provident sit",
       "email": "Isaias_Kuhic@jarrett.net",
-      "body": "sunt aut quae laboriosam sit ut impedit\nadipisci harum laborum totam deleniti voluptas odit rem ea\nnon iure distinctio ut velit doloribus\net non ex"
-    },
-    {
-      "postId": 100,
-      "id": 497,
-      "name": "doloribus dolores ut dolores occaecati",
-      "email": "Dolly@mandy.co.uk",
-      "body": "non dolor consequatur\nlaboriosam ut deserunt autem odit\nlibero dolore non nesciunt qui\naut est consequatur quo dolorem"
-    },
-    {
-      "postId": 100,
-      "id": 498,
-      "name": "dolores minus aut libero",
-      "email": "Davion@eldora.net",
-      "body": "aliquam pariatur suscipit fugiat eos sunt\noptio voluptatem eveniet rerum dignissimos\nquia aut beatae\nmodi consequatur qui rerum sint veritatis deserunt est"
-    },
-    {
-      "postId": 100,
-      "id": 499,
-      "name": "excepturi sunt cum a et rerum quo voluptatibus quia",
-      "email": "Wilburn_Labadie@araceli.name",
-      "body": "et necessitatibus tempora ipsum quaerat inventore est quasi quidem\nea repudiandae laborum omnis ab reprehenderit ut\nratione sit numquam culpa a rem\natque aut et"
-    },
-    {
-      "postId": 100,
-      "id": 500,
-      "name": "ex eaque eum natus",
-      "email": "Emma@joanny.ca",
-      "body": "perspiciatis quis doloremque\nveniam nisi eos velit sed\nid totam inventore voluptatem laborum et eveniet\naut aut aut maxime quia temporibus ut omnis"
-    }
-  ],
+      "body": "sunt aut quae laboriosa"
+    }  ],
   "albums": [
     {
       "userId": 1,
@@ -918,22 +889,7 @@
       "title": "natus nisi omnis corporis facere molestiae rerum in",
       "url": "https://via.placeholder.com/600/f66b97",
       "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
-    },
-    {
-      "albumId": 100,
-      "id": 4999,
-      "title": "in voluptate sit officia non nesciunt quis",
-      "url": "https://via.placeholder.com/600/1b9d08",
-      "thumbnailUrl": "https://via.placeholder.com/150/1b9d08"
-    },
-    {
-      "albumId": 100,
-      "id": 5000,
-      "title": "error quasi sunt cupiditate voluptate ea odit beatae",
-      "url": "https://via.placeholder.com/600/6dd9cb",
-      "thumbnailUrl": "https://via.placeholder.com/150/6dd9cb"
-    }
-  ],
+    }   ],
   "users": [
     {
       "id": 1,
@@ -979,7 +935,5 @@
         "name": "Deckow-Crist",
         "catchPhrase": "Proactive didactic contingency",
         "bs": "synergize scalable supply-chains"
-      }
-    }
-  ]
+      }    }   ]
 }
